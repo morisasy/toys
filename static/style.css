@@ -1,0 +1,20 @@
+li {
+  font-size: 25px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+body::after {
+  content: "";
+  background: url(https://fthmb.tqn.com/Tpv75sjkuDKeIXoqsgP-TBOJxR4=/1280x853/filters:fill(auto,1)/about/mt_kilimanjaro_113886222-56a16a2d5f9b58b7d0bf2c44.jpg);
+  opacity: 0.3;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
